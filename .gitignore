@@ -6,3 +6,4 @@ a.out
 *.sw[a-p]
 !*.swf
 **/node_modules/*
+*.tmp
